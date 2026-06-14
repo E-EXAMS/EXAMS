@@ -73,12 +73,12 @@ function App() {
               </p>
             </div>
 
-            <div className="p-8 bg-white rounded-lg border border-slate-200 hover:border-slate-300 transition-colors">
-              <div className="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mb-4 mx-auto">
-                <span className="text-2xl">🚀</span>
+            <div className":"p-8 bg-white rounded-lg border border-slate-200 hover:border-slate-300 transition-colors">
+              <div className":"w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mb-4 mx-auto">
+                <span className":"text-2xl">🚀</span>
               </div>
-              <h3 className="font-semibold text-lg mb-2">Guest Access</h3>
-              <p className="text-slate-600 text-sm">
+              <h3 className":"font-semibold text-lg mb-2">Guest Access</h3>
+              <p className":"text-slate-600 text-sm">
                 {language === 'en'
                   ? 'Try a quiz without registration'
                   : 'নিবন্ধন ছাড়াই কুইজ চেষ্টা করুন'}
